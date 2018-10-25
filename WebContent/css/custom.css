@@ -1,0 +1,91 @@
+.navbar-nav>li>.dropdown-menu {
+    transform: translate(-70%, 0);
+}
+.navbar-nav>li>.dropdown-toggle{
+    color:#000000;
+}
+.navbar-nav li .dropdown-menu .dropdown-item{
+	transition: all .2s ease-in-out;
+}
+.navbar-nav li .dropdown-menu .dropdown-item:hover{
+    color:#4fbfe8;
+    background:none;
+    transform: scale(1.02);
+}
+.custom-hr{
+	border-bottom: 1.4px solid #4fbfa8;
+	width: 100px;
+}   
+.navbar-nav{
+	margin-left:5px;
+}
+.custom1 {
+	color: #FFFFFF;
+}
+
+#breadcrumb1 {
+	background-image: url("../images/texture-bw.png");
+}
+
+.custom-font-size {
+	font-size: 0.8em;
+}
+
+.list-group-item {
+	color: #4fbfa8;
+}
+
+.btn-primary {
+	background-color: #FFFFFF;
+	color : #4fbfa8;
+	border-color: #4fbfa8;
+	
+}
+.btn-primary:hover {
+	background-color: #4fbfa8;
+	color : #FFFFFF;
+	border-color: #4fbfa8;
+	
+}
+
+.list-group-item.active {
+	background-color: #4fbfa8;
+}
+
+.custom-color {
+	color: #000000;
+}
+
+.custom-color:hover {
+	color: #000000;
+}
+
+.breadcrumb-color {
+	color: #4fbfa8;
+}
+
+.breadcrumb-color:hover {
+	color: #4fbfa8;
+}
+li .welcome-nav{
+	padding: 5%;
+} 
+.custom-caption{
+	border-left: 3px solid #4fbfa8;
+	padding:8px;
+}
+.light-font{
+	color:#666666;
+}
+.carousel-control-prev,
+.carousel-control-next {
+	width:6%;
+}
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    background-color: #999999;
+    border-radius: 50%;
+    background-image: none;
+    
+}
+
